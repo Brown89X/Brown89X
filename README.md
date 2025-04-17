@@ -13,7 +13,7 @@
 - <b>Cisco Packet Tracer</b>
   - Created a Cisco Packet Tracer home network
     
-
+<h2> Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
